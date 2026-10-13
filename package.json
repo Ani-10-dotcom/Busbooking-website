@@ -1,0 +1,9 @@
+{
+  "name": "payanam-bus-booking",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bus ticket booking website for Tamil Nadu routes (Chennai, Coimbatore, Erode, Tirupur) with sample data, built for Vercel",
+  "engines": {
+    "node": ">=18"
+  }
+}
