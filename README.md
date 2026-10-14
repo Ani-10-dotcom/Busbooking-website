@@ -57,3 +57,8 @@ docs/                       Technical document
 ## Changing the bus data
 
 Edit the tables at the top of `lib/core.js` (`ROUTES`, `OPERATORS`, `BUS_TYPES`, `LONG_SCHEDULE`, `SHORT_SCHEDULE`). The same sample data is also copied into `public/app.js` for browser-only mode, so update both.
+
+## Deployment check
+
+- `/deploy-test/` — a page that shows whether the live build came from a GitHub push, and which commit.
+- `/api/health` — the same information as JSON.
